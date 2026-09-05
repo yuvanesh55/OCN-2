@@ -49,38 +49,20 @@ Key points:
   - Defines the acceptance cone of the fiber.  
   - Light must enter within this cone to be transmitted properly; otherwise, it refracts out of the core.  
 
----
+
 ## Circuit diagram
-
-
 <img width="1200" height="1600" alt="LED" src="https://github.com/user-attachments/assets/63eb3148-1b18-48c6-9fc4-655e38172f32" />
 
----
-
 ## TABULATION LED Characteristics (850 nm)
-
-| Forward Voltage \(V_f\) (V) | Forward Current \(I_f\) (mA) |
-|-----------------------------|------------------------------|
-|                             |                              |
-|                             |                              |
-|                             |                              |
-
+<img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/0e029988-2588-442f-bf3a-d355483d392b" />
 <img width="1200" height="1600" alt="Laser" src="https://github.com/user-attachments/assets/2c3bfdae-b491-4496-8090-f404c79241db" />
 
 ## TABULATION LASER Characteristics (1310 nm)
-
-| Forward Voltage \(V_f\) (V) | Forward Current \(I_f\) (mA) |
-|-----------------------------|------------------------------|
-|                             |                              |
-|                             |                              |
-|                             |                              |
----
+<img width="1280" height="989" alt="image" src="https://github.com/user-attachments/assets/6c81a71d-dd34-4479-a7d5-629d57032398" />
 
 ## MODEL GRAPH
-*(Insert IV characteristics graph and optical power plots here)*
-
----
+<img width="1042" height="1600" alt="image" src="https://github.com/user-attachments/assets/aeca32e8-6f3e-4f61-a67c-370876351e52" />
+<img width="1020" height="1600" alt="image" src="https://github.com/user-attachments/assets/47c07d10-ba2b-4d97-9026-fa4804014a05" />
 
 ## RESULT
 - The VI characteristics of the fiber optic LED and LASER were studied.  
-
